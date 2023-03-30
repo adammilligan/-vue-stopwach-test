@@ -16,4 +16,4 @@ make build
 ```
 
 ### Ссылка для прямого просмотра приложения 
-https://vue-stopwach-test.vercel.app
+[![Image alt](https://github.com/adammilligan/vue-stopwach-test/blob/main/public/favicon.ico)](https://vue-stopwach-test.vercel.app)
