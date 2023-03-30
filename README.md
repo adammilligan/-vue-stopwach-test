@@ -1,24 +1,19 @@
 # vue-stopwach-test
 
-## Project setup
+## Уствновка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+make run
 ```
 
-### Lints and fixes files
+### Сборка для продакшена
 ```
-npm run lint
+make build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Ссылка для прямого просмотра приложения 
+https://vue-stopwach-test.vercel.app
